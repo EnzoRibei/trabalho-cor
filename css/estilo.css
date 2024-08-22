@@ -1,7 +1,10 @@
 .container {
-    text-align: center;
+    margin: 20px auto;
+    background-color: whitesmoke;
+    width: 30%;
 }
-.container {
-    max-width: 100%;
-    height: auto;
+.centro {
+    margin: 20px auto;
+    background-color: gray;
+    width: 50%;
 }
