@@ -1,10 +1,15 @@
-.container {
-    margin: 20px auto;
-    background-color: whitesmoke;
-    width: 30%;
-}
 .centro {
     margin: 20px auto;
     background-color: gray;
-    width: 50%;
+    width: 80%;
+}
+
+.container {
+    margin: 20px auto;
+    width: 20%;
+}
+
+.central {
+    margin: 20px auto;
+    width: 45%;
 }
