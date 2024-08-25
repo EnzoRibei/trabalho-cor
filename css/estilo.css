@@ -1,15 +1,157 @@
-.centro {
-    margin: 20px auto;
+.centro{
+    margin: 40px;
     background-color: gray;
-    width: 80%;
+    width: 95%;
 }
-
-.container {
-    margin: 20px auto;
-    width: 20%;
-}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+  }
+a:hover {
+    color: aqua;
+    text-decoration: underline;
+  }
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Arial", sans-serif;
+    font-weight: normal;
+    font-style: Arial;
+    background-color: gray;                        
+  }
+div {
+    width: 100%;
+    background-color: gray;
+  }
+p {
+    text-align: center;
+    background-color: gray;
+  }
 
 .central {
     margin: 20px auto;
+    width: 50%;
+    background-color: gray;
+}
+.cont {
+    em, strong {
+        background-color: white;
+    }
+    margin: 20px auto;
+    font-family: Verdana, sans-serif;
+    font-weight: normal;
+    background-color: white;
     width: 45%;
+    background-color: white;
+}
+.conta{
+    h1, h2, h3, p{
+        background-color: lightgreen;
+    }
+    font-family: Georgia, sans-serif;
+    margin: 20px auto;
+    background-color: lightgreen;
+    width: 50%;
+}
+#button-4 {
+    color: yellow;  /* Dark gray */
+  }
+#button-3 {
+    color: yellowgreen;  /* Dark gray */
+  }
+#button-2 {
+    color: lightblue;  /* Dark gray */
+  }
+.container {
+    strong{
+        background-color: gray;
+    }
+    margin: 20px auto;
+    width: 50%;
+}
+.central {
+    div {
+        color: black;
+        background-color: rgb(226, 24, 24);
+        font-weight: bold;
+        padding: 20px;
+        text-align: center;
+        border: 2px solid black;
+        border-radius: 5px;
+      }
+    background-color: gray;
+    margin: 20px auto;
+    width: 50%;
+}
+.saque{
+    em, strong, h2{
+        background-color: rgb(177, 7, 177);
+    }
+    p{
+        background-color: rgb(177, 7, 177);
+        text-align: left;
+    }
+    a:hover {
+        color: gold;
+        text-decoration: underline;
+        background-color: rgb(177, 7, 177);
+      }
+    a {
+        background-color: rgb(177, 7, 177);
+    }
+    margin: 20px auto;
+    font-family: Verdana, sans-serif;
+    font-weight: normal;
+    background-color: rgb(177, 7, 177);
+    width: 45%;
+    background-color: rgb(177, 7, 177);
+    text-align: center;
+}
+.ion{
+    em, strong, h2{
+        background-color: rgb(13, 216, 216);
+    }
+    p{
+        background-color: rgb(13, 216, 216);
+        text-align: left;
+    }
+    a:hover {
+        color: gold;
+        text-decoration: underline;
+        background-color: rgb(13, 216, 216);
+      }
+    a {
+        background-color: rgb(13, 216, 216);
+    }
+    margin: 20px auto;
+    font-family: Verdana, sans-serif;
+    font-weight: normal;
+    background-color: rgb(13, 216, 216);
+    width: 45%;
+    background-color: rgb(13, 216, 216);
+    text-align: center;
+}
+.su{
+    em, strong, h2{
+        background-color: rgb(204, 142, 8);
+    }
+    p{
+        background-color: rgb(204, 142, 8);
+        text-align: left;
+    }
+    a:hover {
+        color: gold;
+        text-decoration: underline;
+        background-color: rgb(204, 142, 8);
+      }
+    a {
+        background-color: rgb(204, 142, 8);
+    }
+    margin: 20px auto;
+    font-family: Verdana, sans-serif;
+    font-weight: normal;
+    background-color: rgb(204, 142, 8);
+    width: 45%;
+    background-color: rgb(204, 142, 8);
+    text-align: center;
 }
